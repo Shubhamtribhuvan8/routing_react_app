@@ -1,0 +1,18 @@
+.login{
+    margin: 34px;
+    margin-top: 34px;
+  display: flex;
+  gap: 69px;
+  justify-content: center;
+  align-content: center;
+  margin-top: 3%;
+  padding: 90px;
+  box-shadow: 2px 2px 1px 6px darkred;
+  height: 36px;
+  background-color: darkorange;
+}
+.fontman{
+font-weight: bold;
+text-align: center;
+font-size: x-large;
+}
